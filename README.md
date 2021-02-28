@@ -1,5 +1,5 @@
 # Hell-gate-bridge
-A glut implementation of Hell gate bridge, New York City, New York
+A GLUT implementation of Hell gate bridge, New York City, New York
 
 Instructions:
 1. Extract glut-3.7.6-bin.zip to a directory.
